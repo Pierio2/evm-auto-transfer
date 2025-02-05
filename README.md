@@ -117,7 +117,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
 - **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
+- **EVM**: `0x44Cfc737dD8DfdBC760bD681382789aFF2B86c84`
 - **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
 
 ### License
