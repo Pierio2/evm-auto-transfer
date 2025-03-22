@@ -3,6 +3,9 @@ const colors = require('colors');
 const fs = require('fs');
 const readlineSync = require('readline-sync');
 
+
+
+//here should be smomthing
 const checkBalance = require('./src/checkBalance');
 const displayHeader = require('./src/displayHeader');
 const sleep = require('./src/sleep');
